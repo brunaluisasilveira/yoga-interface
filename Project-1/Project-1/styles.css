@@ -88,13 +88,14 @@ strong {
     color: #000000;
 }
 
-.container {
-    text-align: center;
-    margin: 18px auto 50px auto;
-}
-
 .img-link {
     margin-bottom: -8px;
     margin-left: 8px;
     margin-right: 8px;
 }
+
+.container {
+    text-align: center;
+    margin: 18px auto 50px auto;
+}
+
